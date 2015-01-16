@@ -1,0 +1,144 @@
+
+.container {
+    margin: 15px auto;
+    width: 75%;
+    float: left;
+    padding: 0px 35px;
+}
+.content {
+    max-width: 860px;
+    margin: 1em auto;
+    /*font-size: 1.3em;*/
+}
+.feed {
+    border-radius: 3px;
+    border-top: #F2F2F2 solid 1px;
+    box-shadow: 0px 1px 1px #AAA;
+    padding: 15px 1.5em 5px 1.5em;
+    margin: 0px 0px 15px 0px;
+    /*font-size: 1.3em;*/
+}
+.feed-img {
+    float: right;
+    
+}
+.feed-title {
+    color: #222;
+    font-size: 1.2em;
+    margin: 0px 0px 0.2em;
+}
+.feed-meta {
+    color: #999;
+    font-size: 80%;
+    margin: 0px 0px 10px;
+}
+.feed-date {
+    color: #235A9F;
+    
+}
+.feed-description {
+    color: #344151;
+/*                font-size: 1.15em;*/
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    line-height: 1.15em;
+}
+.feed-description p {
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.feed-description img, br {
+    border-radius: 5%;
+    display: block;
+    margin-right: 10px;
+}
+.feed-icon {
+    height: 31px;
+}
+.feedflare {
+    display: none;
+}
+.icon {
+    float: right;
+    margin-left: 10px;
+}
+.feed-icon a {
+    color: #34495E;
+}
+.feed-icon a:hover {
+    color: #428BCA;
+}
+.feed-nav {
+    max-width: 860px;
+    margin: 1.5em auto 0px auto;
+}
+.feed-nav a {
+    
+    margin-right: 10px;
+    font-family: "Source Sans Pro sans-serif";
+    font-size: 15px;
+    color: #333337;
+    cursor: pointer;
+    
+}
+.feed-nav span:hover {
+    cursor: pointer;
+    color: #16A085;
+}
+.secondary {
+    background: none repeat scroll 0% 0% #333337;
+    height: 100%;
+    position: fixed;
+    right: 0px;
+    overflow-y: auto;
+    width: 25%;
+    float: left;
+    display: block;
+    
+}
+.secondary ul {
+    margin: 20px 0px 0px 0px;
+    padding: 10px 0px;
+}
+.secondary li {
+    padding: 0px 0px 15px 0px;
+    list-style: outside none none;
+}
+.secondary li span {
+    margin: 0px 20px 0px 30px;
+    color: #DADADA;
+}
+.secondary li a {
+    color: #DADADA;
+    font-weight: 300;
+    font-size: 18px;
+    
+}
+.secondary li a:hover {
+    color: #F2F2F2;
+    cursor: pointer;
+}
+.feed-form {
+    padding: 10px;
+}
+#feed-form-width {
+    width: auto;
+}        
+#navbarInput-01 {
+    background-color: #FFF;
+    border: none;
+}
+#search-btn{
+    background-color: #434347;
+    border: none;
+}
+#feedCategory {
+    max-width: 860px;
+    margin: 10px auto;
+}
+.feedLogo {
+    margin: 31px 0px 27px;
+    vertical-align: bottom;
+    width: 90%;
+    height: 30px;
+}
